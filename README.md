@@ -8,6 +8,10 @@ A place autocomplete search dialog which uses Google's places API for finding re
 <img src="https://github.com/karagarwal/GooglePlaces/blob/master/app/screenshots/Screenshot_2.png">
 
 
+
+On place selection it will redirect you to that location and give LatLng of that place along with country code which you can use for your further module.
+
+
 # Note
 Please change your API key under `res/values.strign.xml`
 
